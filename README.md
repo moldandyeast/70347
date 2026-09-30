@@ -13,10 +13,11 @@ pass a check for overlaps, forced studs and parts that couldn't actually be put 
 - **Remix** collapses a new vehicle from a seed.
 - **Endless** keeps building one vehicle after another.
 - **Parts** lays the whole bag out as a tray.
+- **X-ray** ghosts the drawing and shows the working live: collision boxes, studs, sockets and shafts, the joint graph, each part's insertion line, the solver's next cells, and a readout of the camera, raster and build check.
 - **Instructions** makes a step-by-step booklet for whatever is on the stage, remixes included, and prints it or saves it as a PDF.
 
 The drawing fills the window and the interface floats over it. Drag to orbit, scroll to zoom, double-click to
-reset. Space plays, N and B step, arrows orbit, F goes fullscreen, H hides the interface.
+reset. Space plays, N and B step, arrows orbit, F goes fullscreen, H hides the interface, X turns on the X-ray.
 
 ## The file
 
