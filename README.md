@@ -13,6 +13,7 @@ pass a check for overlaps, forced studs and parts that couldn't actually be put 
 - **Remix** collapses a new vehicle from a seed.
 - **Endless** keeps building one vehicle after another.
 - **Parts** lays the whole bag out as a tray.
+- **Instructions** makes a step-by-step booklet for whatever is on the stage, remixes included, and prints it or saves it as a PDF.
 
 The drawing fills the window and the interface floats over it. Drag to orbit, scroll to zoom, double-click to
 reset. Space plays, N and B step, arrows orbit, F goes fullscreen, H hides the interface.
